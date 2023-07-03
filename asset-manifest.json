@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.216b6375.css",
-    "main.js": "/react-gh-pages/static/js/main.4f613203.js",
-    "static/js/787.f2a0fa2f.chunk.js": "/react-gh-pages/static/js/787.f2a0fa2f.chunk.js",
-    "static/media/fa-solid-900.svg": "/react-gh-pages/static/media/fa-solid-900.3e2bc2ffd29f01066d23.svg",
-    "static/media/fa-brands-400.svg": "/react-gh-pages/static/media/fa-brands-400.63b566233f163d538cce.svg",
-    "static/media/fa-solid-900.ttf": "/react-gh-pages/static/media/fa-solid-900.8f604243eb69f0f4840a.ttf",
-    "static/media/fa-solid-900.eot": "/react-gh-pages/static/media/fa-solid-900.dfaa060a451d978c2565.eot",
-    "static/media/fa-brands-400.eot": "/react-gh-pages/static/media/fa-brands-400.6726ac3d3e5cb5f5ed9d.eot",
-    "static/media/fa-brands-400.ttf": "/react-gh-pages/static/media/fa-brands-400.1776173e3b1af55eb455.ttf",
-    "static/media/fa-solid-900.woff": "/react-gh-pages/static/media/fa-solid-900.22aa6d4357cf74671bc4.woff",
-    "static/media/fa-brands-400.woff": "/react-gh-pages/static/media/fa-brands-400.99b09f873e22385b38f3.woff",
-    "static/media/fa-brands-400.woff2": "/react-gh-pages/static/media/fa-brands-400.73552ae13731e1269905.woff2",
-    "static/media/fa-solid-900.woff2": "/react-gh-pages/static/media/fa-solid-900.4055b0575d40bfb3c7e8.woff2",
-    "index.html": "/react-gh-pages/index.html",
-    "main.216b6375.css.map": "/react-gh-pages/static/css/main.216b6375.css.map",
-    "main.4f613203.js.map": "/react-gh-pages/static/js/main.4f613203.js.map",
-    "787.f2a0fa2f.chunk.js.map": "/react-gh-pages/static/js/787.f2a0fa2f.chunk.js.map"
+    "main.css": "/maipt106.github.io/static/css/main.bff6d9eb.css",
+    "main.js": "/maipt106.github.io/static/js/main.6e8c0d14.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/maipt106.github.io/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/fa-solid-900.svg": "/maipt106.github.io/static/media/fa-solid-900.3e2bc2ffd29f01066d23.svg",
+    "static/media/fa-brands-400.svg": "/maipt106.github.io/static/media/fa-brands-400.63b566233f163d538cce.svg",
+    "static/media/fa-solid-900.ttf": "/maipt106.github.io/static/media/fa-solid-900.8f604243eb69f0f4840a.ttf",
+    "static/media/fa-solid-900.eot": "/maipt106.github.io/static/media/fa-solid-900.dfaa060a451d978c2565.eot",
+    "static/media/fa-brands-400.eot": "/maipt106.github.io/static/media/fa-brands-400.6726ac3d3e5cb5f5ed9d.eot",
+    "static/media/fa-brands-400.ttf": "/maipt106.github.io/static/media/fa-brands-400.1776173e3b1af55eb455.ttf",
+    "static/media/fa-solid-900.woff": "/maipt106.github.io/static/media/fa-solid-900.22aa6d4357cf74671bc4.woff",
+    "static/media/fa-brands-400.woff": "/maipt106.github.io/static/media/fa-brands-400.99b09f873e22385b38f3.woff",
+    "static/media/fa-brands-400.woff2": "/maipt106.github.io/static/media/fa-brands-400.73552ae13731e1269905.woff2",
+    "static/media/fa-solid-900.woff2": "/maipt106.github.io/static/media/fa-solid-900.4055b0575d40bfb3c7e8.woff2",
+    "index.html": "/maipt106.github.io/index.html",
+    "main.bff6d9eb.css.map": "/maipt106.github.io/static/css/main.bff6d9eb.css.map",
+    "main.6e8c0d14.js.map": "/maipt106.github.io/static/js/main.6e8c0d14.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/maipt106.github.io/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.216b6375.css",
-    "static/js/main.4f613203.js"
+    "static/css/main.bff6d9eb.css",
+    "static/js/main.6e8c0d14.js"
   ]
 }
