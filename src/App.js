@@ -1,18 +1,20 @@
 import './App.css';
 import {
-    createBrowserRouter,
-    createRoutesFromElements,
-    Route,
+    BrowserRouter,
+    Route, Routes,
 } from "react-router-dom";
 import {Profile} from "./pages/profile";
 import {Biography} from "./pages/biography";
 
-const router = createBrowserRouter(
-    createRoutesFromElements(
-        <Route path="/" element={<Profile/>}>
-            <Route path="/biography" element={<Biography />} />
-        </Route>
-    )
-);
+const App = () => {
+    return (
+        <BrowserRouter>
+            <Routes>
+                <Route exact path="/" element={<Profile/>} />
+                <Route  path="/bio" element={<Biography />} />
+            </Routes>
+        </BrowserRouter>
+    );
+};
 
-export default router;
+export default App;
